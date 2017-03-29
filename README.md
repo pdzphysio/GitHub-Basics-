@@ -54,7 +54,9 @@ $ git add HelloWorld.md
 25	Then its time to push your project to github ( your remote repository ) and share your files with world.
 
 26	 Give command $ git push –u courseraproject master.
+
 Done. 
+
 Later you can check github account and check for HelloWorld.md file .. you can open it and check if it has content in it…. When I completed this task i was not able to find written text in file HelloWorld.md, so I just edited on Github account
 
 
